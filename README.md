@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Furniture AI Dashboard - Project Documentation
 
 This project is a full-stack web application for furniture sales forecasting, product management, and combo-offer recommendation.
@@ -332,3 +333,6 @@ Why:
 3. Set `REACT_APP_API_BASE_URL` in Vercel.
 4. Deploy frontend on Vercel.
 5. Update `CORS_ORIGINS` in Render to the exact Vercel URL.
+=======
+# Sales-Forecasting-System-With-Recommendation
+>>>>>>> 880addec7238ccab2c685d57cea213dc990b34be
